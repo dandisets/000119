@@ -18,6 +18,8 @@ contributor:
 description: for testing
 id: DANDI:000119/draft
 identifier: DANDI:000119
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000119/versions/draft/assets/
 name: ble
 schemaVersion: 0.4.4
 url: https://dandiarchive.org/dandiset/000119/draft
