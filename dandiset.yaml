@@ -2,6 +2,9 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000119
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about:
+- {}
+- name: amygdala
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -20,13 +23,24 @@ contributor:
   schemaKey: Person
 dateCreated: '2021-07-15T12:12:23.840153+00:00'
 description: for testing
+ethicsApproval: []
 id: DANDI:000119/draft
 identifier: DANDI:000119
+keywords: []
+license: []
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000119/versions/draft/assets/
 name: ble
+protocol: []
+relatedResource:
+- identifier: https://doi.org/10.1038/s41586-019-1787-x
+  name: resource 1
+  relation: dcite:IsSupplementTo
+  schemaKey: Resource
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000119/draft
 version: draft
+wasGeneratedBy: []
